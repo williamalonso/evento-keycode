@@ -1,0 +1,13 @@
+body {
+	background-color: lightblue;
+}
+
+#msg {
+	background-color: white;
+	width: 50%;
+	justify-content: center;
+	text-align: center;
+	margin: auto;
+	margin-top: 50px;
+	text-transform: uppercase;
+}

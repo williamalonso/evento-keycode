@@ -1,5 +1,7 @@
 $(document).ready(function(){
-	$(".getKeyCode").bind("keydown", function(e){
-		var keyCode = e.which;
+	$(":text").keyup(function(e){
+		$("#msg").text( 
+			"Código KeyCode digitado: " + e.which
+		);
 	});
 });
