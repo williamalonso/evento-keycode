@@ -12,7 +12,7 @@ Este readme está dividido em:
 
 ## Descrição
 
-Trata-se de uma página html simples para pegar o keycode da tecla digitada.
+Trata-se de uma página html simples com uma função JQuery para pegar o evento keycode da tecla digitada.
 
 ## Funcionalidades
 
